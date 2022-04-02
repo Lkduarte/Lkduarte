@@ -28,7 +28,7 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lkduarte&repo=Lkduarte&countColorcountColor&countColor=%237B1E7B" />
 <div>
 
-<a href = "mailto:luke_nunes@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:luke_nunes@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-nunes-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
