@@ -9,7 +9,7 @@
 ## I'm a systems analysis and development student, thirsty for learning, always willing to improve.
 
 - 👨‍💻 I’m currently searching for work with development.
-- 📚 I’m currently learning about Java and Mysql. 😅
+- 📚 I’m currently learning about Java and MySql. 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play games and basketball :basketball:.
 
