@@ -15,19 +15,6 @@
 
 ---
 
-### Contact with me 📝
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lkduarte&repo=Lkduarte&countColorcountColor&countColor=%237B1E7B" />
-<div>
-
-<a href = "mailto:luke_nunes@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-nunes-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<br />
-
----
-
 ### Languages and Tools That I Use / Familiar With 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff&style=flat-square)
@@ -48,18 +35,15 @@
 
 ---
 
+### Contact with me 📝
 
-<!--
-**Lkduarte/Lkduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lkduarte&repo=Lkduarte&countColorcountColor&countColor=%237B1E7B" />
+<div>
 
-Here are some ideas to get you started:
+<a href = "mailto:luke_nunes@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-nunes-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
