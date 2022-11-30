@@ -37,7 +37,12 @@
 
 ### Contact with me 📝
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lkduarte&repo=Lkduarte&countColorcountColor&countColor=%237B1E7B" />
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=Lkduarte&style=for-the-badge)
+  
+</div>
+
 <div>
 
 <a href = "mailto:luke_nunes@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
